@@ -66,7 +66,7 @@ GamePlayManager = {
         game.load.image('header', 'assets/images/header.png?v=3');
 
         game.load.spritesheet("buttonPlay", "assets/images/buttonPlay.png", 65, 65, 2);
-        game.load.spritesheet('gandalf', 'assets/images/gandalf.png?v=1', 16, 32);
+        game.load.spritesheet('gandalf', 'assets/images/gandalf.png?v=1', 25, 41);
         game.load.spritesheet('explosion', 'assets/images/explosion.png?v=1', 80, 80);
         game.load.spritesheet('arrival', 'assets/images/arrival.png?v=1', 700, 30);
         game.load.spritesheet('fire', 'assets/images/fire.png?v=1', 32, 32, 4);
