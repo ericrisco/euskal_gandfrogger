@@ -5,7 +5,7 @@ Frogger like game, Gandalf against the world (again) for the Fast Foss Game Comp
 - [Frogger Wikipedia](https://es.wikipedia.org/wiki/Frogger)
 - [Frogger Classic](http://froggerclassic.appspot.com/)
 
-### [DEMO HERE](https://ericrisco.com/gandfrogger/).
+### [DEMO HERE](https://ericrisco.com/gandfrogger/master/screenshot.png).
 
 This time Gandalf has to arrive 5 times at the end. The other houses of the Game of Encounters are going to make hard his work. Gandalf needs your help!
 
